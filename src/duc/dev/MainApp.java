@@ -3,8 +3,7 @@ package duc.dev;
 import java.util.Scanner;
 
 public class MainApp {
-	public static void main(String[] args) {
-		System.out.println("Hello");
+	public static void main(String[] args) 
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("Nhap N: ");
